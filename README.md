@@ -76,8 +76,8 @@ He agrupado mis herramientas por categoría para una mejor legibilidad.
 <div align="center">
   <h3>🎧 Escuchando ahora en Spotify</h3>
   <br>
-  <a href="https://open.spotify.com/user/11153360645">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Playing" width="300" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dpzms4apihfcet6qpffusnf5eq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dpzms4apihfcet6qpffusnf5eq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false" alt="Spotify Playing">
   </a>
 </div>
 
@@ -90,5 +90,5 @@ He agrupado mis herramientas por categoría para una mejor legibilidad.
 <br>
 
 <div align="center">
-  <sub>Desarrollado con esfuerzo y dedicación por <a href="https://github.com/Bgstatic">Bgstatic</a> | Última edición: 2024</sub>
+  <sub>Desarrollado con esfuerzo y dedicación | Última edición: 2026 - 9:50am</sub>
 </div>
