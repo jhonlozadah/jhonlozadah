@@ -6,14 +6,14 @@
   <br>
 
   <!-- Redes Sociales y Contacto -->
-  <a href="http://bilgehangecici.site/">
-    <img src="https://img.shields.io/badge/-Portafolio-05122A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://www.facebook.com/jhonn.lozada.huaman/?locale=es_LA">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/bilgehan-ge%C3%A7ici-8b368614a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/bilgehangecici">
+  <a href="https://www.instagram.com/jhonn.css/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@jhonn_90.cs?lang=es">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </div>
 
@@ -23,10 +23,10 @@
 
 ## 👨‍💻 Sobre Mí
 
-- 💻 **Actualidad:** Desarrollando proyectos web utilizando tecnologías modernas como **JavaScript y React**.
+- 💻 **Actualidad:** Desarrollando proyectos web utilizando tecnologías modernas como **JavaScript y Flutter**.
 - 📚 **Aprendizaje Continuo:** Enfocado en perfeccionar mis habilidades y arquitectura en entornos **Frontend y Backend**.
 - 🚀 **Visión y Metas:** Dominar nuevas herramientas tecnológicas, optimizar procesos y nunca dejar de crear soluciones innovadoras.
-- ⚡ **Dato Curioso:** Fuera de la programación, disfruto mucho jugar al billar y al snooker en mi tiempo libre 🎱.
+- ⚡ **Dato Curioso:** Fuera de la programación, disfruto mucho jugar al futbol y voley en mi tiempo libre 🎱.
 
 ---
 
