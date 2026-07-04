@@ -60,16 +60,34 @@ He agrupado mis herramientas por categoría para una mejor legibilidad.
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🎯 Métricas de Calidad y Rendimiento
+
+<p>Más allá de escribir código funcional, mi prioridad es construir productos digitales optimizados, accesibles y listos para producción. Estas son las métricas estándar a las que apunto en mis desarrollos:</p>
 
 <div align="center">
-  <a href="https://github.com/Bgstatic">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Estadísticas de Bgstatic" />
-  </a>
-  <a href="https://github.com/Bgstatic">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide=css" alt="Lenguajes Top" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td align="center"><b>⚡ Rendimiento</b></td>
+      <td align="center"><b>♿ Accesibilidad</b></td>
+      <td align="center"><b>🛡️ Mejores Prácticas</b></td>
+      <td align="center"><b>🔍 Posicionamiento (SEO)</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Performance-98%2F100-0CEB7B?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Accessibility-100%2F100-0CEB7B?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Accessibility"></td>
+      <td align="center"><img src="https://img.shields.io/badge/Best_Practices-100%2F100-0CEB7B?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Best Practices"></td>
+      <td align="center"><img src="https://img.shields.io/badge/SEO-100%2F100-0CEB7B?style=for-the-badge&logo=lighthouse&logoColor=white" alt="SEO"></td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
+## ⚙️ Enfoque de Desarrollo Sólido
+
+- 🏗️ **Arquitectura Limpia:** Implementación de patrones de diseño escalables y código modular.
+- 📱 **Mobile-First & UI/UX:** Interfaces adaptables con flujos de usuario intuitivos y probados.
+- 🔄 **Despliegue Continuo:** Integración de buenas prácticas en la automatización de proyectos web.
 
 ---
 
