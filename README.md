@@ -37,23 +37,23 @@ He agrupado mis herramientas por categoría para una mejor legibilidad.
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23CC6699?style=flat-square&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend & Base de Datos
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5?style=flat-square&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### 🔧 Herramientas y Entorno
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000?style=flat-square&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -77,7 +77,7 @@ He agrupado mis herramientas por categoría para una mejor legibilidad.
   <h3>🎧 Escuchando ahora en Spotify</h3>
   <br>
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dpzms4apihfcet6qpffusnf5eq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dpzms4apihfcet6qpffusnf5eq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false" alt="Spotify Playing">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dpzms4apihfcet6qpffusnf5eq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=false" alt="Spotify Playing">
   </a>
 </div>
 
